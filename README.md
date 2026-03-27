@@ -40,6 +40,7 @@ These results show that the model is learning meaningful patterns from medical t
 
 ## Project Structure
 
+```
 medical-llm-from-scratch/
 │── notebooks/
 │ ├── Build_Architecture.ipynb
@@ -53,7 +54,7 @@ medical-llm-from-scratch/
 │
 │── requirements.txt
 │── README.md
-
+```
 
 ## Model Details
 
